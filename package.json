@@ -1,6 +1,6 @@
 {
   "name": "moped-apply-update",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Apply a moped style update to an array",
   "keywords": ["moped", "moped-sync"],
   "dependencies": {},
